@@ -1,0 +1,53 @@
+div{
+	border-style: solid;
+	border-color: white;
+}
+#header{
+	background-color: #FFCC33;
+	border: 0.5%;
+	border-bottom: 0.25%;
+	padding: 3%;
+	padding-left: 10px;
+}
+#nav{
+	background-color: #FFCC33;
+	border: 0.5%;
+	border-top: 0.25%;
+	border-right: 0.25%;
+	padding-bottom: 10%;
+	width: 15%;
+	float: left;
+	padding-left: 10px;
+}
+#article{
+	background-color: #FFCC33;
+	border: 0.5%;
+	border-top: 0.25%;
+	border-left: 0.25%;
+	border-right: 0.25%;
+	padding-bottom: 10%;
+	width: 66%;
+	float: left;
+	padding-left: 10px;
+}
+#ads{
+	background-color: #FFCC33;
+	border: 0.5%;
+	border-top: 0.25%;
+	border-left: 0.25%;
+	padding-bottom: 10%;
+	width: 15.2%;
+	float: right;
+	padding-left: 10px;
+}
+#footer{
+	background-color: #FFCC33;
+	border: 0.5%;
+	border-top: 0.25%;
+	padding: 3%;
+	padding-left: 10px;
+	float: left;
+	clear: left;
+	padding-left: 10px;
+	width: 95.7%;
+}
