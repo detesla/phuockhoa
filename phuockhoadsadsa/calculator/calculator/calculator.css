@@ -1,0 +1,49 @@
+button{
+	width: 35px;
+}
+#zero{
+	width: 70px;
+}
+#equal{
+	background-color: #ff9d00;
+	color: #ffffff;
+	float: right;
+	margin-left: -4px;
+	height: 42px;
+}
+#multiply, #division, #plus, #del, #minus, #reset{
+	background-color: #ff9d00;
+}
+#calculator{
+	border-style: solid;
+	border-width: 0.5px;
+	margin-left: 100px;
+	margin-top: 20px;
+	width: 181px;
+	height: 110px;
+}
+#Display{
+	float: left;
+	border-style: solid;
+	border-width: 0.5px;
+	width: 173px;
+	margin-left: 2px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	text-align: right;
+	padding-right: 2px;
+}
+#numbersanddecimal{
+	float: left;
+	width: 106px;
+	margin-left: 2px;
+	font-size: 1px;
+}
+#operators{
+	width: 70px;
+	float: left;
+}
+#top4{
+	width:72px;
+	font-size: 1px;
+}
